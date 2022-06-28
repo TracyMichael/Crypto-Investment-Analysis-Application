@@ -1,4 +1,4 @@
-# Module-Challenge-10
+# Crypto Investment Analysis Application
 
 ---
 
